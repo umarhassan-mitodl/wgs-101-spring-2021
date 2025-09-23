@@ -1,0 +1,116 @@
+leftnav:
+- identifier: 194fc060-3598-4c43-a328-76591250d7f2
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 15c315c5-0678-4c7e-93de-da4b93887333
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 24a59073-e1dc-40d4-b067-813d5cfc7b2d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: c62d2374-61b5-4d89-ad88-9873b1c1fe58
+  name: In-Class Writing Assignments
+  pageRef: /pages/in-class-writing-assignments
+  weight: 40
+- identifier: 7468d4d6-a807-4f6c-8b0d-6e82bdfde942
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: cab43e04-107f-49dc-9a5f-baac3ed680b1
+  name: 'Class #1 Exercise'
+  pageRef: /pages/class-1-exercises
+  parent: c62d2374-61b5-4d89-ad88-9873b1c1fe58
+  weight: 10
+- identifier: 6b1954cf-1d06-4a74-aabe-cb0a98fd0529
+  name: 'Class #2 Exercise'
+  pageRef: /pages/class-2-exercises
+  parent: c62d2374-61b5-4d89-ad88-9873b1c1fe58
+  weight: 20
+- identifier: 285be4f4-fbbc-457d-bacd-436cc763010e
+  name: 'Class #3 Exercise'
+  pageRef: /pages/class-3-exercise
+  parent: c62d2374-61b5-4d89-ad88-9873b1c1fe58
+  weight: 30
+- identifier: c6c9c0e4-17c7-48bd-ba89-55926adab374
+  name: 'Class #15 Exercise'
+  pageRef: /pages/class-15-exercise
+  parent: c62d2374-61b5-4d89-ad88-9873b1c1fe58
+  weight: 40
+- identifier: da28d96a-7d54-4fc1-8f1d-1bcb316e2999
+  name: 'Class #20 Exercise'
+  pageRef: /pages/class-20-exercise
+  parent: c62d2374-61b5-4d89-ad88-9873b1c1fe58
+  weight: 50
+- identifier: 172ae632-02d9-489b-8ee4-0a4ef5a3a1d5
+  name: 'Class #21 Exercise'
+  pageRef: /pages/class-21-writing-exercise
+  parent: c62d2374-61b5-4d89-ad88-9873b1c1fe58
+  weight: 60
+- identifier: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  name: Homework Assignments
+  pageRef: /pages/homework-assignments
+  parent: 7468d4d6-a807-4f6c-8b0d-6e82bdfde942
+  weight: 10
+- identifier: 98b15f98-f41c-45d0-ac32-5828298a22d3
+  name: Current Event Analysis
+  pageRef: /pages/current-event-analysis
+  parent: 7468d4d6-a807-4f6c-8b0d-6e82bdfde942
+  weight: 20
+- identifier: abfa6608-f180-4879-b25e-68a5ad0b1707
+  name: Essays
+  pageRef: /pages/essays
+  parent: 7468d4d6-a807-4f6c-8b0d-6e82bdfde942
+  weight: 30
+- identifier: c1337921-e275-42d2-b2d4-e3d998d403f8
+  name: 'Homework #1'
+  pageRef: /pages/homework-1-declaration-of-sentiments-and-resolutions
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 10
+- identifier: 9afe8f82-3f4b-4ef9-bb75-6f4afa043855
+  name: 'Homework #2'
+  pageRef: /pages/homework-2
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 20
+- identifier: 5ffa89ed-5109-4503-a646-27cefa47051c
+  name: 'Homework #3'
+  pageRef: /pages/homework-3
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 30
+- identifier: 8b54a594-3901-438f-9249-79a8edf1b851
+  name: 'Homework #5'
+  pageRef: /pages/homework-5
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 40
+- identifier: 64d14f20-45af-4a09-843b-c72b5f38a368
+  name: 'Homework #6'
+  pageRef: /pages/homework-6
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 50
+- identifier: 6457b9d5-16f8-4943-ab9e-f27c9bab61da
+  name: 'Homework #7'
+  pageRef: /pages/homework-7
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 60
+- identifier: b15c6ebe-6232-43fd-abe2-f51dee4a86c2
+  name: 'Homework #8'
+  pageRef: /pages/homework-8
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 70
+- identifier: fed15cd1-cb83-4a99-9f1d-91e913c3e97f
+  name: 'Homework #9'
+  pageRef: /pages/homework-9
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 80
+- identifier: 8ba1773b-7db0-4768-acc4-107fd0aaa4d6
+  name: 'Homework #10'
+  pageRef: /pages/homework-10
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 90
+- identifier: 87753bab-7859-42df-a5da-14e9238a2c49
+  name: 'Homework #11'
+  pageRef: /pages/homework-11
+  parent: 56d906cf-b6df-48fb-9b13-6cb8c5467a3d
+  weight: 100
