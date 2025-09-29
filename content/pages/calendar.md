@@ -46,7 +46,7 @@ Homework #4 due
 
 **6\. Gender, Race, Class, and Suffrage, cont.** 
 
-Class did not meet, but students viewed the film {{% resource_link "0c462c8a-a833-462f-86ab-99745a857f4f" "*Ida B. Wells: Passion for Justice*" %}} on their own. 
+Class did not meet, but students viewed the film [*Ida B. Wells: Passion for Justice*](http://www.williamgreaves.com/ida-b-wells-a-passion-for-justice/) on their own. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -70,7 +70,7 @@ Homework #6 due
 
 **9\. World War II and Changing Gender Roles in the U.S.**
 
-Library Presentation: {{% resource_link "9934f724-d75e-4695-88de-e898788089ea" "Jen Greenleaf" %}}, MIT Women's and Gender Studies Librarian
+Library Presentation: [Jen Greenleaf](https://libguides.mit.edu/profiles/jgleaf), MIT Women's and Gender Studies Librarian
 
 Review homework #8 on *The Feminine Mystique* and NOW's "Statement of Purpose."
 
