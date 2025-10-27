@@ -31,12 +31,12 @@ Upon successful completion of this course, students should be able to:
 
 #### Required Readings
 
-- Perkins Gilman, Charlotte. "[The Yellow Wallpaper](https://en.wikisource.org/wiki/The_Yellow_Wall_Paper)." The New England Magazine, 1892. 
+- Perkins Gilman, Charlotte. "{{% resource_link "6fd1031b-3e34-4864-83dd-fead7ac3782d" "The Yellow Wallpaper" %}}." The New England Magazine, 1892. 
 - Schneir, Miriam. *Feminism in Our Time: The Essential Writings, World War II to the Present*. Vintage/Random House, 1994. ISBN: 9780679745082.
 
 #### Evaluation and Grading
 
-This course is considered [Communications-Intensive](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement). By the end of the term, students will have written at least 5,000 words divided among 3–5 assignments. At least one major assignment should be revised and resubmitted. Students are also assessed in the area of oral communication (discussion, class participation, and oral presentations). 
+This course is considered {{% resource_link "5f8fac6e-861a-4656-b6bb-ec7281eeb0c5" "Communications-Intensive" %}}. By the end of the term, students will have written at least 5,000 words divided among 3–5 assignments. At least one major assignment should be revised and resubmitted. Students are also assessed in the area of oral communication (discussion, class participation, and oral presentations). 
 
 Student performance in the class is evaluated as follows:
 
